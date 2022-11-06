@@ -14,7 +14,6 @@ document.ontouchmove = e => onHandleMove(e.touches[0]);
 
 
 
-
 // Slider
 
 new Swiper('.logo_slider .slider', {
